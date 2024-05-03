@@ -5,5 +5,5 @@ export TRANSFORMERS_CACHE=/scratch/dmeher/.cache/huggingface/transformers
 export HF_DATASETS_CACHE=/scratch/dmeher/.cache/huggingface/datasets
 export HF_METRICS_CACHE=/scratch/dmeher/.cache/huggingface/metrics
 export HF_MODULES_CACHE=/scratch/dmeher/.cache/huggingface/modules
-#export HF_TOKEN='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'
-export HF_TOKEN='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'
+#export HF_TOKEN='Enter your huggingface token'
+export HF_TOKEN='Enter your huggingface token'
